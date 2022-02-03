@@ -1,0 +1,6 @@
+name: EnchantingSigns
+version: '${project.version}'
+main: enchsigns.enchantingsigns.EnchantingSigns
+api-version: 1.18
+authors: [ ImRama ]
+description: Create signs to enchant with right click
